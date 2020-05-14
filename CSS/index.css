@@ -36,9 +36,10 @@ ul li{
 table tr{
     text-align: left;
 }
-div table{
+#tableone{
     text-align: center;
-    padding-left: 40%;
+    /*padding-left: 40%;*/
+    border: 1px black;
 }
 /* ul table{
     display: none;
