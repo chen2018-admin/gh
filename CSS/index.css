@@ -16,9 +16,8 @@ body{
     text-align: center;
     font-size: 50px;
 }
-ul div{
+div div{
     text-align: center;
-    margin: 0 auto;
     display: none;
 }
 a:link{
@@ -29,16 +28,18 @@ a:hover{
     color: #1abc89;
     font-size: 35px;
 }
-ul>li{
-    font-size: 20px;
-    align-content: center;
+ul li{
+    font-size: 40px;
     list-style-position: inside;       /*让前面的数字居中紧挨着文字*/
     padding-top: 100px;
 }
-table>tr{
+table tr{
     text-align: left;
 }
-
+div table{
+    text-align: center;
+    padding-left: 40%;
+}
 /* ul table{
     display: none;
 } */
