@@ -5,12 +5,11 @@
 }
 *{
     font-family: 楷体, serif;
-    margin: 10px;
 }
+
 body{
     text-align: center;
     font-size: 20px;
-    
 }
 #title{
     text-align: center;
@@ -36,14 +35,10 @@ ul li{
 table tr{
     text-align: left;
 }
-#tableone{
-    text-align: center;
-    /*padding-left: 40%;*/
-    border: 1px black;
-}
-/* ul table{
+
+ul table{
     display: none;
-} */
+}
 :target{
     display: block;
 }
