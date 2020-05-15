@@ -15,9 +15,9 @@ body{
     text-align: center;
     font-size: 50px;
 }
-div div{
+div table{
     text-align: center;
-    display: none;
+    /*display: none;*/
 }
 a:link{
     text-decoration: none;
@@ -34,12 +34,5 @@ ul li{
 }
 table tr{
     text-align: left;
-}
-
-ul table{
-    display: none;
-}
-:target{
-    display: block;
 }
 
